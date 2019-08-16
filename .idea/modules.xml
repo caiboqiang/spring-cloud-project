@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/entity-api/entity-api.iml" filepath="$PROJECT_DIR$/entity-api/entity-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-5010/eureka-service-5010.iml" filepath="$PROJECT_DIR$/eureka-service-5010/eureka-service-5010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-service-5030/feign-service-5030.iml" filepath="$PROJECT_DIR$/feign-service-5030/feign-service-5030.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-service-5040/hystrix-dashboard-service-5040.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-service-5040/hystrix-dashboard-service-5040.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-one-6010/project-one-6010.iml" filepath="$PROJECT_DIR$/project-one-6010/project-one-6010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-tow-6020/project-tow-6020.iml" filepath="$PROJECT_DIR$/project-tow-6020/project-tow-6020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-project.iml" filepath="$PROJECT_DIR$/spring-cloud-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-tm-5050/txlcn-tm-5050.iml" filepath="$PROJECT_DIR$/txlcn-tm-5050/txlcn-tm-5050.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-service-5020/zuul-service-5020.iml" filepath="$PROJECT_DIR$/zuul-service-5020/zuul-service-5020.iml" />
+    </modules>
+  </component>
+</project>

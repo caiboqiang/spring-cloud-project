@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/entity-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service-5010" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-service-5030" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dashboard-service-5040" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project-one-6010" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project-tow-6020" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txlcn-tm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txlcn-tm-5050" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-service-5020" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="entity-api" />
+        <module name="eureka-service-5010" />
+        <module name="feign-service-5030" />
+        <module name="hystrix-dashboard-service-5040" />
+        <module name="project-one-6010" />
+        <module name="project-tow-6020" />
+        <module name="txlcn-tm-5050" />
+        <module name="zuul-service-5020" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="entity-api" target="1.8" />
+      <module name="eureka-service-5010" target="1.8" />
+      <module name="feign-service-5030" target="1.8" />
+      <module name="hystrix-dashboard-service-5040" target="1.8" />
+      <module name="project-one-6010" target="1.8" />
+      <module name="project-tow-6020" target="1.8" />
+      <module name="service-project-one" target="1.8" />
+      <module name="spring-cloud-project" target="1.8" />
+      <module name="txlcn-tm-5050" target="1.8" />
+      <module name="zuul-5020" target="1.8" />
+      <module name="zuul-service-5020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="entity-api" options="-parameters" />
+      <module name="eureka-service-5010" options="-parameters" />
+      <module name="feign-service-5030" options="-parameters" />
+      <module name="hystrix-dashboard-service-5040" options="-parameters" />
+      <module name="project-one-6010" options="-parameters" />
+      <module name="project-tow-6020" options="-parameters" />
+      <module name="service-project-one" options="-parameters" />
+      <module name="spring-cloud-project" options="" />
+      <module name="txlcn-tm-5050" options="-parameters" />
+      <module name="zuul-5020" options="-parameters" />
+      <module name="zuul-service-5020" options="-parameters" />
+    </option>
+  </component>
+</project>
